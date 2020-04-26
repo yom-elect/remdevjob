@@ -14,4 +14,5 @@
 | Yahaya Hyellamoda Yohanna | yahayahyohanna@gmail.com             | Nodejs, Laravel, MySQL, React.js | https://yhyportfolio.netlify.app                  | http://twitter.com/yasholma         |
 | Alejandro Akbal           | contact@akbal.dev                    | Nodejs, Vuejs, MySQL, Python     | https://akbal.dev                                 |                                     |
 | Teona Mushambadze | mushambadzeteona@gmail.com             | JavaScript, VueJS, CSS | https://highflyer910.github.io                 | https://twitter.com/highflyer910         |
+| Kaitlin Johnsen | kjohnsen21@gmail.com | kjohnsen21@gmail.com | | https://twitter.com/theiceboxcar
 
